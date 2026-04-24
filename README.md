@@ -10,7 +10,7 @@ bddc
 ```
 
 ## Processing data
-Run these Python files for preprocessing and feature extraction. Note that the Plop function in ```mgcreate.py``` is available in ***Appendix C.2*** of the book [Image Operators: Image Processing in Python](https://github.com/Shegsdev/deep-learning-books/blob/master/5.%20Computer%20Vision%20(CV)%20Book/Image%20Operators%20Image%20Processing%20in%20Python-2019.pdf) by Dr. Jason M. Kinser:
+Run these Python files for preprocessing and feature extraction. Note that the Plop function in ```mgcreate.py``` is in ***Appendix C.2*** of the book [Image Operators: Image Processing in Python](https://github.com/Shegsdev/deep-learning-books/blob/master/5.%20Computer%20Vision%20(CV)%20Book/Image%20Operators%20Image%20Processing%20in%20Python-2019.pdf) by Dr. Jason M. Kinser:
 ```bash
 python preprocess.py
 python feature_extraction.py
